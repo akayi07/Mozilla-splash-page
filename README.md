@@ -1,1 +1,1 @@
-# -Mozilla-
+Mozilla splash page
